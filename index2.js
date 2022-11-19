@@ -1,8 +1,8 @@
 const drink =["Coffee","Coke","Coco"]
 
-for(const d of drink){
+/*for(const d of drink){
     console.log(d)
-}
+}*/
 
 const users = [
     {name: 'A', age:16},
